@@ -57,13 +57,8 @@ provide('navigation', navigation)
     </NuxtLayout>
 
     <ClientOnly>
-      <LazyUContentSearch
-        :files="files"
-        shortcut="meta_k"
-        :navigation="navigation"
-        :links="links"
-        :fuse="{ resultLimit: 42 }"
-      />
+      <LazyUContentSearch :files="files" shortcut="meta_k" :navigation="navigation" :links="links"
+        :fuse="{ resultLimit: 42 }" />
     </ClientOnly>
   </UApp>
 </template>

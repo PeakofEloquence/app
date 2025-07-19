@@ -1,150 +1,146 @@
-title: Build your SaaS with Nuxt UI Pro
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes. It includes all primitives to build landing pages, documentations, blogs, dashboards or entire SaaS products.
+title: Transform Your iPhone with Powerful Automations
+description: AutomateHub is the premier platform for iOS automation. Create sophisticated shortcuts, discover community gems, and supercharge your iPhone productivity with our intuitive builder and enterprise-grade signing service.
 seo:
-  title: Nuxt UI Pro - SaaS template
-  description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+  title: AutomateHub - Transform Your iPhone with Powerful Automations
+  description: Build sophisticated iOS shortcuts with AutomateHub. The premier platform for iPhone automation featuring visual builder, secure signing, and vibrant community sharing.
 navigation: false
 hero:
   links:
-    - label: Get started
+    - label: Start Creating
       icon: i-lucide-arrow-right
       trailing: true
-      to: https://ui.nuxt.com/getting-started/installation/pro/nuxt
-      target: _blank
+      to: /shortcuts/create
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
+    - label: Browse Shortcuts
+      icon: i-lucide-search
       size: xl
       color: neutral
       variant: subtle
-      to: https://github.com/nuxt-ui-pro/saas
-      target: _blank
+      to: /shortcuts
 sections:
-  - title: Enterprise-Grade Solutions
-    description: Transform your business with our comprehensive suite of tools. Built for scale, security, and seamless integration, our platform empowers teams to achieve more while maintaining complete control.
+  - title: Build Sophisticated iOS Automations
+    description: Transform your iPhone into a productivity powerhouse with our visual shortcut builder. From simple time-savers to complex multi-step workflows, create automations that work exactly how you think.
     id: features
     orientation: horizontal
     features:
-      - name: Developer-First
-        description: Built by developers for developers, with extensive API documentation and flexible integration options.
-        icon: i-lucide-cog
-      - name: 99.9% Uptime
-        description: Enterprise-grade infrastructure with guaranteed reliability and automatic failover protection.
-        icon: i-lucide-check
-      - name: Bank-Level Security
-        description: SOC 2 Type II certified with end-to-end encryption and advanced threat detection.
-        icon: i-lucide-lock
-  - title: Optimized for Growth
-    description: Scale your business confidently with our enterprise-ready platform. From startups to Fortune 500 companies, we provide the tools and support you need to succeed.
+      - name: Visual Builder
+        description: Intuitive drag-and-drop interface turns complex automation ideas into working shortcuts in minutes, no coding experience needed.
+        icon: i-lucide-blocks
+      - name: Enterprise Signing
+        description: Professional code signing certificates ensure your shortcuts install seamlessly and run without security warnings on any iOS device.
+        icon: i-lucide-shield-check
+      - name: Smart Sharing
+        description: Share your creations instantly with the community or keep them private with granular privacy controls and team collaboration features.
+        icon: i-lucide-share-2
+  - title: Discover & Connect
+    description: Tap into a thriving community of iOS automation enthusiasts. Explore thousands of battle-tested shortcuts or showcase your own innovations to inspire others.
     orientation: horizontal
     reverse: true
     features:
-      - name: Lightning Fast
-        description: Global CDN with sub-100ms latency and automatic performance optimization.
-        icon: i-lucide-rocket
-      - name: Predictable Pricing
-        description: Transparent, usage-based pricing with no hidden fees and volume discounts.
-        icon: i-lucide-circle-dollar-sign
-      - name: Infinite Scale
-        description: Auto-scaling architecture handles millions of requests without breaking a sweat.
-        icon: i-lucide-chart-bar
+      - name: Curated Collections
+        description: Discover handpicked shortcuts from power users, organized into themed collections that solve real-world problems.
+        icon: i-lucide-library
+      - name: Smart Discovery
+        description: Find exactly what you need with intelligent categorization, trending shortcuts, and personalized recommendations.
+        icon: i-lucide-grid-3x3
+      - name: Instant Installation
+        description: Install any shortcut with a single tap using our streamlined, secure delivery system that works flawlessly with iOS.
+        icon: i-lucide-download
 features:
-  title: Features That Set Us Apart
-  description: Our platform combines enterprise-grade reliability with developer-friendly features, providing everything you need to build and scale your applications.
+  title: The Complete iOS Automation Toolkit
+  description: From concept to deployment, we provide everything you need to build, test, and share professional-grade iOS shortcuts that actually work.
   items:
-    - title: Developer Experience
-      description: Comprehensive documentation, powerful CLI tools, and intuitive APIs that make development a joy.
-      icon: i-lucide-cog
-    - title: Enterprise Ready
-      description: SOC 2 Type II certified, GDPR compliant, with 24/7 enterprise support and dedicated success managers.
-      icon: i-lucide-check
-    - title: Advanced Security
-      description: Multi-factor authentication, role-based access control, and audit logs keep your data protected.
-      icon: i-lucide-lock
-    - title: Global Performance
-      description: Edge computing network spans 200+ locations ensuring lightning-fast response times worldwide.
-      icon: i-lucide-rocket
-    - title: Flexible Pricing
-      description: Pay only for what you use with transparent pricing and no long-term commitments required.
-      icon: i-lucide-circle-dollar-sign
-    - title: Infinite Scalability
-      description: Built on cloud-native architecture that automatically scales to meet any demand.
-      icon: i-lucide-chart-bar
+    - title: Visual Shortcut Builder
+      description: Powerful drag-and-drop editor with 200+ pre-built actions, smart templates, and real-time testing to bring your automation ideas to life.
+      icon: i-lucide-blocks
+    - title: Professional Code Signing
+      description: Enterprise-grade certificates eliminate security warnings and ensure your shortcuts install seamlessly on any iOS device, every time.
+      icon: i-lucide-shield-check
+    - title: Vibrant Community
+      description: Connect with thousands of iOS automation enthusiasts, share your innovations, and discover shortcuts that solve problems you didn't know you had.
+      icon: i-lucide-users
+    - title: Universal Cloud Sync
+      description: Your shortcuts follow you everywhere with automatic synchronization across all your devices and secure cloud backup.
+      icon: i-lucide-cloud
+    - title: Usage Analytics
+      description: Understand how your shortcuts perform with detailed metrics on usage patterns, execution times, and user engagement.
+      icon: i-lucide-bar-chart-3
+    - title: Team Workspaces
+      description: Collaborate on complex automations with shared workspaces, version control, and real-time collaborative editing features.
+      icon: i-lucide-users-2
 testimonials:
-  headline: Customer Success Stories
-  title: Trusted by Industry Leaders
-  description: Join thousands of companies worldwide who have transformed their digital presence with our platform.
+  headline: Success Stories
+  title: Loved by iOS Power Users
+  description: Join thousands of iPhone users who have transformed their daily workflows with AutomateHub's powerful automation platform.
   items:
-    - quote: The developer experience is unmatched. We migrated our entire infrastructure in weeks instead of months, and our team's productivity has increased dramatically. The TypeScript support and component library saved us months of development time.
+    - quote: AutomateHub transformed how I manage my daily routine. I built a morning shortcut that checks weather, starts my playlist, and texts my team - all with one tap. The visual builder made it so easy, even though I'm not technical.
       user:
         name: Sarah Chen
-        description: CTO at TechScale Solutions
+        description: Marketing Director
         avatar:
           src: https://i.pravatar.cc/120?img=1
-    - quote: After implementing the edge computing features, our global application response times dropped by 70%. Our European and Asian markets saw immediate improvements in user engagement and conversion rates.
+    - quote: As a photographer, I needed to quickly process and share images from shoots. My AutomateHub shortcut resizes photos, adds watermarks, and uploads to three platforms simultaneously. It saves me hours every week.
       user:
         name: Marcus Rodriguez
-        description: VP of Engineering at DataFlow
+        description: Professional Photographer
         avatar:
           src: https://i.pravatar.cc/120?img=7
-    - quote: The platform's security features gave us peace of mind during our SOC 2 certification. The built-in compliance tools and audit logs made the process seamless.
+    - quote: The secure signing feature is a game-changer. I can share shortcuts with my entire sales team without worrying about security warnings or installation issues. Everyone gets the same reliable experience.
       user:
         name: David Kumar
-        description: Security Director at SecureStack
+        description: Sales Operations Manager
         avatar:
           src: https://i.pravatar.cc/120?img=3
-    - quote: During our Black Friday sale, we handled 15x our normal traffic without a hitch. The auto-scaling features worked flawlessly, and our monitoring dashboard gave us real-time insights throughout the event.
+    - quote: I discovered a shortcut that automatically logs my workouts to three different fitness apps. The community library is incredible - there's a solution for everything I never knew I needed.
       user:
         name: Emily Zhang
-        description: Lead Architect at ScaleForce
+        description: Fitness Enthusiast
         avatar:
           src: https://i.pravatar.cc/120?img=5
-    - quote: The support team goes above and beyond. They helped us optimize our CI/CD pipeline and suggested performance improvements that reduced our build times by 45%.
+    - quote: The analytics showed me that my expense tracking shortcut saves me 2 hours per month. Being able to see the real impact of my automations motivates me to create even more efficient workflows.
       user:
         name: James Wilson
-        description: DevOps Lead at CloudPro
+        description: Small Business Owner
         avatar:
           src: https://i.pravatar.cc/120?img=8
-    - quote: Switching to this platform reduced our infrastructure costs by 40% while improving performance. The cost savings alone paid for the investment within the first quarter.
+    - quote: Our team uses AutomateHub to standardize how we handle client communications. Everyone has the same shortcuts for follow-ups, scheduling, and project updates. It's made us so much more consistent.
       user:
         name: Lisa Patel
-        description: CEO at AutoScale
+        description: Agency Owner
         avatar:
           src: https://i.pravatar.cc/120?img=9
-    - quote: The accessibility features and responsive components helped us achieve WCAG 2.1 compliance with minimal custom development. Our site now scores 100 on Lighthouse accessibility metrics.
+    - quote: I built a shortcut that automatically creates calendar events from my email confirmations and texts the details to my family. The visual builder made something complex feel simple to create.
       user:
         name: Michael Torres
-        description: Frontend Lead at AccessFirst
+        description: Travel Coordinator
         avatar:
           src: https://i.pravatar.cc/120?img=11
-    - quote: We serve millions of API requests daily, and the real-time analytics and monitoring tools have been invaluable for optimizing our performance and identifying bottlenecks.
+    - quote: The community aspect is amazing. I shared a shortcut for meal planning and got feedback that helped me improve it. Now it's one of the most popular shortcuts in the food category.
       user:
         name: Rachel Kim
-        description: Performance Engineer at APIHub
+        description: Food Blogger
         avatar:
           src: https://i.pravatar.cc/120?img=10
-    - quote: The component library and design system tools helped us maintain consistency across our 20+ micro-frontends. Our development velocity has never been better.
+    - quote: AutomateHub's team collaboration features let my entire family share shortcuts. We have automations for chores, shopping lists, and family scheduling that everyone can use and improve.
       user:
         name: Thomas Weber
-        description: UI Architecture Lead at DesignScale
+        description: Parent & Tech Enthusiast
         avatar:
           src: https://i.pravatar.cc/120?img=12
-    - quote: Integration with our existing tools was seamless. The webhooks and API documentation made it easy to automate our workflows and enhance our development pipeline.
+    - quote: The cloud sync means my shortcuts work perfectly whether I'm on my iPhone, iPad, or helping someone else set up their automations. Everything just works seamlessly across devices.
       user:
         name: Sophia Martinez
-        description: Integration Specialist at TechFlow
+        description: Productivity Coach
         avatar:
           src: https://i.pravatar.cc/120?img=14
 cta:
-  title: Start with Nuxt UI Pro today!
-  description: Nuxt UI Pro is free in development, but you need a license to use it in production.
+  title: Ready to Transform Your iPhone?
+  description: Join thousands of users who have already discovered the power of iOS automation. Start building your first shortcut today - it's free to get started.
   links:
-    - label: Buy now
-      to: https://ui.nuxt.com/pro/purchase
-      target: _blank
-      icon: i-lucide-shopping-cart
-    - label: License
-      to: https://ui.nuxt.com/getting-started/license
-      trailingIcon: i-lucide-circle-help
-      target: _blank
+    - label: Start Building
+      to: /shortcuts/create
+      icon: i-lucide-rocket
+    - label: Browse Community
+      to: /shortcuts
+      trailingIcon: i-lucide-arrow-right
       variant: subtle
