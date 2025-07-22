@@ -25,9 +25,9 @@ const items = computed(() => [{
   <UHeader>
     <template #left>
       <NuxtLink to="/" aria-label="Home">
-        <h1 class="text-xl font-thin text-transparent bg-clip-text bg-gradient-to-r from-neutral-50 to-neutral-100">AutomateHub</h1>
+        <h1 class="text-lg font-semibold">Automate<span class="font-bold text-primary">Hub</span></h1>
       </NuxtLink>
-      <TemplateMenu />
+      <!-- <TemplateMenu /> -->
     </template>
 
     <UNavigationMenu
