@@ -24,8 +24,8 @@ const items = computed(() => [{
 <template>
   <UHeader>
     <template #left>
-      <NuxtLink to="/">
-        <LogoPro class="w-auto h-6 shrink-0" />
+      <NuxtLink to="/" aria-label="Home">
+        <h1 class="text-xl font-thin text-transparent bg-clip-text bg-gradient-to-r from-neutral-50 to-neutral-100">AutomateHub</h1>
       </NuxtLink>
       <TemplateMenu />
     </template>
@@ -43,6 +43,7 @@ const items = computed(() => [{
         color="neutral"
         variant="ghost"
         to="/login"
+        aria-label="Sign in"
         class="lg:hidden"
       />
 
