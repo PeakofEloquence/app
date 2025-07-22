@@ -91,3 +91,7 @@ declare module '@nuxt/schema' {
     }
   }
 }
+function defineNuxtSchema(arg0: unknown) {
+  throw new Error('Function not implemented.')
+}
+
